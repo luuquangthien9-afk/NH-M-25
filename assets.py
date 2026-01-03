@@ -44,4 +44,5 @@ def init_assets():
         font_big = pygame.font.SysFont("arial", 36, bold=True)
         font_medium = pygame.font.SysFont("arial", 32)
 
+
     return font_title_big, font_big, font_medium
